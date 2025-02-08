@@ -5,7 +5,7 @@ Welcome to Automatic Axial Control, a project dedicated to the design and implem
 ## 📷 Screenshots
 
 ![Robot Render](https://github.com/WarriorKnight/Rubiks-Cube-Solver/blob/main/render.png)
-![Program Render]([https://github.com/WarriorKnight/Rubiks-Cube-Solver/blob/main/render.png](https://github.com/WarriorKnight/Rubiks-Cube-Solver/blob/main/program.png))
+![Program Render](https://github.com/WarriorKnight/Rubiks-Cube-Solver/blob/main/program.png)
 
 ## Statement
 

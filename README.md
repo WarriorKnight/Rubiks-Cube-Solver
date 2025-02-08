@@ -4,7 +4,8 @@ This project focuses on the design of a 5-axis Rubiks Cube solver, with automati
 
 ## Screenshots
 
-![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/WarriorKnight/Rubiks-Cube-Solver/blob/main/render.png))
+![App Screenshot](https://github.com/WarriorKnight/Rubiks-Cube-Solver/blob/main/render.png)
+
 
 ## Statement
 

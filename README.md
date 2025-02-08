@@ -1,11 +1,24 @@
 # Automatic Axial Control
 
-This project focuses on the design of a 5-axis Rubiks Cube solver, with automatic color scaning and control software with GUI for the robot
+Welcome to Automatic Axial Control, a project dedicated to the design and implementation of a 5-axis Rubik's Cube solver. This project integrates mechanical design, computer vision, and automated control to create a fully functional robotic solution capable of solving a Rubik's Cube with minimal human input. The system includes automatic color scanning and control software with an intuitive graphical user interface (GUI).
 
-## Screenshots
+## 📷 Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Robot Render](https://github.com/WarriorKnight/Rubiks-Cube-Solver/blob/main/render.png)
+![Program Render]([https://github.com/WarriorKnight/Rubiks-Cube-Solver/blob/main/render.png](https://github.com/WarriorKnight/Rubiks-Cube-Solver/blob/main/program.png))
 
 ## Statement
 
 This project is only being dumped here, it is a old project of mine, that i do not plan on writing documentation for. Also, it is kinda of a mess, but it works.
+
+## 📝 Project Overview
+This project aims to demonstrate the combination of:
+
+Mechanical Engineering: A custom-built 5-axis robotic arm designed to manipulate and rotate the Rubik's Cube accurately.
+Computer Vision: Automatic color scanning and cube state recognition to determine the current state of the puzzle.
+Control Software: A custom-made application with a user-friendly GUI to monitor and control the robot's actions in real time.
+
+## ⚠️ Disclaimer
+This project is being shared as-is and may not be well-documented. It is an older project of mine, and I currently have no plans to provide additional documentation or support. Please note that some parts of the project may appear disorganized, but the system works as intended.
+
+Feel free to explore the repository, adapt the project for your own needs, or learn from the code and design.
